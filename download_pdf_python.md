@@ -1,5 +1,3 @@
-
----
 # How to Download a PDF File Using Python
 
 ## author: Kave Bahraman
